@@ -3,7 +3,7 @@
 
 ### 📫 How to reach me:
 Feel free to connect with me:
-- Linkedin: https://www.linkedin.com/in/nishad-elias-806865259/
+- Linkedin: https://www.linkedin.com/in/nishadelias/
 - Email: nishadelias@g.ucla.edu
 <!--
 **nishadelias/nishadelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
