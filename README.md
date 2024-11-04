@@ -6,7 +6,7 @@ I’m a third year Computer Engineering student at UCLA, and I have a strong int
 - Digital System Design and FPGA Programming.
 
 
-### 🔭 I'm currently working on
+### 🔭 I'm currently working on ...
 - **Wireless, RF, and Analog Project:** Goal is to get a string of bits from one microcontroller to another, without any wires between the two (at 27MHz)
 - **Robot SLAM Simulation:** Build a map of a robot's environment, and localize the robot in that map at the same time
 
