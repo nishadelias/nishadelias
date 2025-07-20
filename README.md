@@ -1,18 +1,20 @@
 ## 👋 Hi, I'm Nishad
 
 ### 👀 About me:
-I’m a third year Computer Engineering student at UCLA, and I have a strong interest in both hardware and software. I'm particularly interested in ...
-- Autonomous Systems and Robotics
-- Digital System Design and FPGA Programming.
+I’m a fourth year Computer Engineering student at UCLA, and I have a strong interest in both hardware and software. I'm particularly interested in ...
+- Computer Architecture & Digital Design
+- Embedded Systems & State Estimation
+- Satellites & Other Space Systems
 
 
 ### 🔭 I'm currently working on ...
-- **Wireless, RF, and Analog Project:** Goal is to get a string of bits from one microcontroller to another, without any wires between the two (at 27MHz)
-- **Robot SLAM Simulation:** Build a map of a robot's environment, and localize the robot in that map at the same time
+- **RISC-V CPU Simulation:** Expanding my custom RISC-V CPU simulator to support the full RV32I base ISA, with configurable cache and branch prediction schemes. The CLI-based tool tracks all register values at any instruction or cycle, with plans for future GUI integration.
+- **Wireless, RF, and Analog Project:** Building a 27 MHz wireless data transmission system to send a stream of bits from one microcontroller to another. This involves analog/RF design, bitstream encoding, and low-level signal processing.
+- **Robot SLAM Simulation:** Developing a SLAM system to simultaneously localize a robot and map its environment. This project combines elements of probabilistic robotics, control, and real-time simulation.
 
 
-### 📫 How to reach me:
-Feel free to connect with me:
+### 📫 Let's Connect:
+I'm always excited to meet people who share my interests.
 - **Linkedin:** https://www.linkedin.com/in/nishadelias/
 - **Email:** nishadelias@g.ucla.edu
 <!--
