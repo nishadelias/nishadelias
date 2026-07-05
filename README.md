@@ -1,33 +1,37 @@
-## 👋 Hi, I'm Nishad
+# Hi, I'm Nishad Elias
 
-### 👀 About me:
-I’m a fourth year Computer Engineering student at UCLA, and I have a strong interest in both hardware and software. I'm particularly interested in ...
-- Computer Architecture & Digital Design
-- Embedded Systems & State Estimation
-- Satellites & Other Space Systems
+I'm a Computer Engineering graduate from UCLA interested in building systems that connect hardware, software, and the physical world. My work spans computer architecture, embedded systems, robotics, state estimation, and space technology.
 
+I'm especially excited by roles where I can work close to the metal, solve technical problems across the stack, and build reliable systems with real-world constraints.
 
-### 🔭 I'm currently working on ...
-- **RISC-V CPU Simulation:** Expanding my custom RISC-V CPU simulator to support the full RV32I base ISA, with configurable cache and branch prediction schemes. The CLI-based tool tracks all register values at any instruction or cycle, with plans for future GUI integration.
-- **Wireless, RF, and Analog Project:** Building a 27 MHz wireless data transmission system to send a stream of bits from one microcontroller to another. This involves analog/RF design, bitstream encoding, and low-level signal processing.
-- **Robot SLAM Simulation:** Developing a SLAM system to simultaneously localize a robot and map its environment. This project combines elements of probabilistic robotics, control, and real-time simulation.
+## Technical Interests
 
+- Computer architecture and digital design
+- Embedded systems and low-level software
+- Robotics, state estimation, and SLAM
+- Satellites and space systems
+- Simulation, tooling, and systems software
 
-### 📫 Let's Connect:
-I'm always excited to meet people who share my interests.
-- **Linkedin:** https://www.linkedin.com/in/nishadelias/
-- **Email:** nishadelias@g.ucla.edu
-<!--
-**nishadelias/nishadelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
 
-Here are some ideas to get you started:
+### RISC-V CPU Simulator
+Building a custom RISC-V CPU simulator for the RV32I base ISA, with support for configurable cache and branch prediction behavior. The simulator is designed as a CLI-based tool for inspecting register values, instruction execution, and cycle-level behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Robot SLAM Simulation
+Developing a simulation for simultaneous localization and mapping, combining probabilistic robotics, controls, sensor modeling, and real-time estimation.
+
+## What I'm Looking For
+
+I'm interested in internship opportunities involving:
+
+- Embedded software
+- Digital design and computer architecture
+- Robotics and autonomy
+- Aerospace and satellite systems
+- Hardware/software integration
+- Systems engineering
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/nishadelias](https://www.linkedin.com/in/nishadelias/)
+- Email: [nishad.elias@gmail.com](mailto:nishad.elias@gmail.com)
